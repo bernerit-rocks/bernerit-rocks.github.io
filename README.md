@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Willkommen beim Verein *bernerit.rocks*!
 
-You can use the [editor on GitHub](https://github.com/bernerit-rocks/bernerit-rocks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Der Verein *bernerit.rocks* verfolgt das Ziel, öffentliche, IT-bezogene, technisch motivierte Events im Raum Bern zu organisieren und durchzuführen.
+>
+> Der Verein verfolgt ideelle und keine kommerziellen Zwecke und erstrebt keinen
+Gewinn. Die Organe sind ehrenamtlich tätig.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Events
 
-### Markdown
+Am 10. September 2020 findet auf dem Gurten der erste ***Swiss Cloud Native Day*** statt: https://cloudnativeday.ch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Statuten
 
-```markdown
-Syntax highlighted code block
+Siehe [Statuten](Statuten.md)
 
-# Header 1
-## Header 2
-### Header 3
+### Vorstand
 
-- Bulleted
-- List
+An der Gründungsversammlung vom 5. Dezember 2020 wurden gewählt:
 
-1. Numbered
-2. List
+* Johann Gyger (Präsident)
+* Mathias Herzog
+* Philipp Grossenbacher
+* Thomas Philipona
 
-**Bold** and _Italic_ and `Code` text
+### Revision
 
-[Link](url) and ![Image](src)
-```
+* Philipp Grossenbacher
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Kontakt
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bernerit-rocks/bernerit-rocks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wende dich an info@bernerit.rocks.
