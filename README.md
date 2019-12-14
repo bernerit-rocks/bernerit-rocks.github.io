@@ -7,7 +7,7 @@ Gewinn. Die Organe sind ehrenamtlich tätig.
 
 ### Events
 
-Am 10. September 2020 findet auf dem Gurten der erste ***Swiss Cloud Native Day*** statt: https://cloudnativeday.ch
+Am 10. September 2020 findet auf dem Gurten der erste [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
 
 ### Statuten
 
@@ -28,4 +28,4 @@ An der Gründungsversammlung vom 5. Dezember 2020 wurden gewählt:
 
 ### Kontakt
 
-Wende dich an info@bernerit.rocks.
+Wende dich an [info@bernerit.rocks](mailto:info@bernerit.rocks).
