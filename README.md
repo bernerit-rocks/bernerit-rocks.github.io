@@ -11,7 +11,7 @@ Am 10. September 2020 findet auf dem Gurten der erste [Swiss Cloud Native Day](h
 
 ### Statuten
 
-Siehe [Statuten](Statuten.md)
+Siehe [Statuten](statuten.md)
 
 ### Vorstand
 
@@ -29,3 +29,8 @@ An der Gründungsversammlung vom 5. Dezember 2020 wurden gewählt:
 ### Kontakt
 
 Wende dich an [info@bernerit.rocks](mailto:info@bernerit.rocks).
+
+### Adresse
+
+Verein bernerit.rocks  
+CH-3000 Bern
