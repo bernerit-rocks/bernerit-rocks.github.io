@@ -7,7 +7,7 @@ Gewinn. Die Organe sind ehrenamtlich tätig.
 
 ### Events
 
-Am 10. September 2020 findet auf dem Gurten der erste [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
+Am 23. September 2021 findet auf dem Gurten der erste [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
 
 ### Statuten
 
