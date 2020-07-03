@@ -34,3 +34,11 @@ Wende dich an [info@bernerit.rocks](mailto:info@bernerit.rocks).
 
 Verein bernerit.rocks  
 CH-3000 Bern
+
+### Werde Gönner
+
+Als Gönner unterstützt du den Verein bernerit.rocks finanziell und hast damit die Chance, gemeinsam mit uns die Berner Community rund um die aktuellsten IT-Themen zu prägen.
+
+Dein Engagement ab 100 CHF als Privat- oder ab 1000 CHF als Geschäftsperson wird auf der Webseite unseres Vereins und bei unseren Meetups publiziert (die Publikation erfolgt aus steuerrechtlichen Gründen ohne Online-Verlinkung)
+
+
