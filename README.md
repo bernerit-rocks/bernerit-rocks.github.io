@@ -35,6 +35,10 @@ Wende dich an [info@bernerit.rocks](mailto:info@bernerit.rocks).
 Verein bernerit.rocks  
 CH-3000 Bern
 
+### Unsere aktuellen Gönner
+
+* Levingo GmbH, Bern
+
 ### Werde Gönner
 
 Als Gönner unterstützt du den Verein bernerit.rocks finanziell und hast damit die Chance, gemeinsam mit uns die Berner Community rund um die aktuellsten IT-Themen zu prägen.
