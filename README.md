@@ -17,7 +17,7 @@ Siehe [Statuten](statuten.md)
 
 ### Vorstand
 
-An der Gründungsversammlung vom 5. Dezember 2020 wurden gewählt:
+An der Gründungsversammlung vom 5. Dezember 2019 wurden gewählt:
 
 * Johann Gyger (Präsident)
 * Mathias Herzog
