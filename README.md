@@ -41,9 +41,9 @@ CH-3000 Bern
 
 ## Unsere aktuellen Gönner
 
-* Levingo GmbH, Bern
-* Puzzle ITC GmbH, Bern
-* acend gmbh, Bern
+* [Levingo GmbH](https://levingo.ch/), Bern
+* [Puzzle ITC GmbH](https://www.puzzle.ch/), Bern
+* [acend gmbh](https://acend.ch/), Bern
 
 ## Werde Gönner
 
