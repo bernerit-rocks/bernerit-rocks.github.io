@@ -11,7 +11,7 @@ Gewinn. Die Organe sind ehrenamtlich tätig.
 
 Wir organisieren die [Cloud Native Bern Meetups](https://www.meetup.com/cloudnativebern/).
 
-Am 14. September 2022 findet auf dem Gurten der zweite [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
+Am 21. September 2023 findet auf dem Gurten der dritte [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
 
 ## Statuten
 
