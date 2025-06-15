@@ -11,7 +11,8 @@ Gewinn. Die Organe sind ehrenamtlich tätig.
 
 * Seit 2018 organisieren wir das [Cloud Native Bern Meetup](https://www.meetup.com/cloudnativebern/).
 * Seit 2021 findet auf dem Gurten der  [Swiss Cloud Native Day](https://cloudnativeday.ch) statt.
-* Seit 2024 organisieren wir das [Bärner Go Meetup](https://berne.gophers.ch).
+* Seit 2024 ist das [Bärner Go Meetup](https://berne.gophers.ch) Teil des Vereins.
+* Seit 2025 ist das [DevOps Bern Meetup](https://www.meetup.com/devops-bern) Teil des Vereins.
 
 ## Statuten
 
